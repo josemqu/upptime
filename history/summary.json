@@ -4,7 +4,7 @@
     "url": "https://www.precionafta.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.precionafta.com.ico",
     "slug": "precio-nafta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "98.73%",
     "uptimeWeek": "98.66%",
@@ -16,6 +16,7 @@
     "timeMonth": 795,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2025-08-29": 0,
       "2025-08-28": 18,
       "2025-08-27": 34,
       "2025-08-26": 72,
